@@ -1,0 +1,495 @@
+Number,Name,HexColor
+70.826,Medium Brown,
+70.855,Black Glaze,#1b1a18
+70.470,Gloss Medium,#ffffff
+70.510,Gloss Varnish,
+70.517,Dark Grey Wash,#51554c
+70.520,Matt Varnish,#635b46
+70.521,Metal Medium,
+70.540,Matt Medium,#ffffff
+70.598,Crackle Medium,#ffffff
+70.730,Yellow Fluorescent - RAL 1026,#efe94b
+70.733,Orange Fluorescent - FS38903 - RAL 2005,#e7683a
+70.735,Magenta Fluorescent,#e55680
+70.736,Blue Fluorescent,#375694
+70.737,Green Fluorescent - FS38901,#8bb469
+70.740,Middle Brown - Cam. SS,#57443d
+70.741,Dark Black Green - Cam. SS,#002418
+70.742,Primula Flesh,#fdeadc
+70.743,Primula Tan Flesh,#f9ca9e
+70.800,Gunmetal Blue,#354b62
+70.801,Brass,#8f6c36
+70.802,Sunset Red,#c44570
+70.803,Brown Rose,#b5838c
+70.804,Beige Red - FS31433 - RAL 3012,#cb9565
+70.805,German Orange - FS32356,#d18578
+70.806,German Yellow,#c7bd7f
+70.807,Oxford Blue,#3b3f58
+70.808,Blue Green - FS35275,#168f92
+70.809,Royal Blue - FS35095,#3a649e
+70.810,Royal Purple - FS37100,#502560
+70.811,Blue Violet,#614c79
+70.812,Violet Red,#6e2b48
+70.814,Burnt Red - RAL 8012,#653536
+70.815,Basic Skin Tone (Flesh Tone),#e9ac8d
+70.816,Luftwaffe Uniform WWII,#676c73
+70.817,Scarlet - RLM 23,#bb464c
+70.818,Red Leather,#a55750
+70.819,Iraqi Sand - FS30475,#99835c
+70.820,Off-White - FS17925,#f4ede7
+70.821,German Camouflage Beige WWll - FS33303,#ab9c7f
+70.822,German Camouflage Black Brown - RLM61,#434142
+70.823,Luftwaffe Camouflage Green - FS34095 - RAL 6020 - RLM82,#445147
+70.824,German Camouflage Orange Ochre - FS30266 - ANA615,#8f7250
+70.825,German Camouflage Pale Brown - FS30140,#79604f
+70.826,German Camouflage Medium Brown - FS30097,#6f5b41
+70.827,Lime Green,#7caa30
+70.828,Wood Grain - Transparent,#453a34
+70.829,Amaranth Red - FS31400,#c15c48
+70.830,German Fieldgrey WWII - FS34086 - RAL 7009,#514e33
+70.831,Tan Glaze,#cf8f40
+70.832,Verdigris Glaze,#89d0c8
+70.833,German Camouflage Bright Green - RAL 6025,#548744
+70.834,Natural Wood Grain - Transparent,#f9d768
+70.835,Salmon Rose,#f4a288
+70.836,London Grey - FS36081 - ANA603,#38393f
+70.837,Pale Sand - FS33798,#d5c79e
+70.838,Emerald,#008861
+70.839,Ultramarine Blue,#3c5ea8
+70.840,Light Turquoise,#1b98aa
+70.841,Andrea Blue - RAL 5012,#2973b8
+70.842,Gloss White - FS17925,#fffcf6
+70.843,Cork Brown - FS30215,#7f6355
+70.844,Deep Sky Blue - FS35250,#00bfff
+70.845,Sunny Skin Tone - FS32544,#efad6e
+70.846,Mahogany Brown - RAL 8002,#5f4340
+70.847,Dark Sand - RAL 1001,#c9ac82
+70.850,Medium Olive - (Green) FS34151 - ANA611,#2a7233
+70.851,Bright Orange,#f66838
+70.853,White Glaze,#eeeef1
+70.854,Brown Glaze,#493e3d
+70.855,Black Glaze,#343639
+70.856,Ochre Brown (Ochre Maroon),#aa7833
+70.857,Golden Olive,#7c8252
+70.858,Ice Yellow,#ffffc1
+70.859,Black Red,#4b3738
+70.860,Medium Flesh Tone,#c18237
+70.861,Glossy Black - FS17038,#181c1d
+70.862,Black Grey - FS37031 - RAL 7021,#34393b
+70.863,Gunmetal Grey - FS37200,#a09f9f
+70.864,Natural Steel,#8a8b87
+70.865,Oily Steel,#7c7d76
+70.866,Grey Green - FS36134 - RLM 66,#3a3c3b
+70.867,Dark Blue Grey - FS36099 - RLM74,#45534d
+70.868,Dark Sea Green -FS36118,#282e2e
+70.869,Basalt Grey - FS36152 - RAL 7012 - RLM75,#74797b
+70.870,Medium Sea Grey - FS36270,#8a959b
+70.871,Leather Brown - FS30051 - RAL 8027,#4c4538
+70.872,Chocolate Brown - FS30099,#514a40
+70.873,US Field Drab - FS30118,#755d3d
+70.874,Tan Earth - FS30219 - ANA628,#a1836c
+70.875,Beige Brown - FS31090,#785a49
+70.875,Beige Brown,#816041
+70.876,Brown Sand - RLM79,#a97b63
+70.877,Gold Brown - FS33275,#a98100
+70.878,Old Gold - FS27043,#998455
+70.879,Green Brown - RAL 8000,#957c51
+70.880,Khaki Grey,#897f5a
+70.881,Yellow Green - FS34259,#8e8449
+70.882,Middle Stone,#e0c895
+70.883,Silver Grey - FS37150 - RAL 9002,#e1e1d8
+70.884,Stone Grey - FS36357,#7c7b66
+70.885,Pastel Green - FS34424,#a1b796
+70.886,Green Grey - RLM02,#645b4a
+70.887,Brown Violet - FS34088 - ANA613,#3e4444
+70.887,70.887 US Olive Drab,#5f5a47
+70.888,Olive Grey - FS34096 - RAL 6006,#616352
+70.889,USA Olive Drab - FS34084,#434947
+70.890,Refractive Green - FS34129- RAL 6003,#496446
+70.891,Intermediate Green - FS34227,#7f9170
+70.892,Yellow Olive - FS34083 - RAL 6008,#616352
+70.893,US Dark Green - FS34079,#595c4e
+70.894,Cam. Olive Green (Russian Green) - FS34083 - RLM80,#3b5344
+70.895,Gunship Green - FS34092,#40685c
+70.896,Ger. Camouflage Extra Dark Green,#2d4e48
+70.897,Bronze Green - RAL 7022 - RLM70,#4a4c47
+70.898,Dark Sea Blue - FS35042 - ANA607,#3e454d
+70.899,Dark Prussian Blue - FS35048,#182b3c
+70.900,French Mirage Blue - FS35164,#5d6977
+70.901,Pastel Blue - FS35190 - RAL 5024,#6a899d
+70.902,Azure - FS35231,#707faf
+70.903,Intermediate Blue - FS36176,#646e7a
+70.904,Dark Blue Grey - FS35189,#6c8589
+70.905,Blue Grey Pale - FS35237,#7e878b
+70.906,Pale Blue - FS35352,#8cb7b0
+70.907,Pale Grey Blue - FS36473,#9ea8a6
+70.908,Carmine Red,#b8272e
+70.909,Vermillion - FS31302 - RAL 3020,#e34234
+70.910,Orange Red,#e75025
+70.911,Light Orange,#f58847
+70.912,Tan Yellow - FS33245 - RAL 1011,#bf9871
+70.913,Yellow Ochre - FS33434,#a57d4a
+70.914,Green Ochre,#8c7963
+70.915,Deep Yellow,#ffe209
+70.916,Sand Yellow - FS33696,#ddc576
+70.917,Beige,#daba81
+70.918,Ivory - FS37855 - RAL 9001,#ebe2d1
+70.919,Foundation White / Cold White,#f6f6f8
+70.920,German Uniform - FS34158,#306054
+70.921,English Uniform - FS30145,#725b31
+70.922,Uniform Green,#475732
+70.923,Japanese Uniform WWII,#977943
+70.924,Russian Uniform WWII - FS34127 - RLM83,#6f6d4b
+70.925,Blue,#0e3261
+70.926,Red - FS30160,#912930
+70.927,Dark Flesh,#d29866
+70.928,Light Flesh - FS31670,#f3d4b8
+70.929,Light Brown,#a06950
+70.930,Darkblue,#0c517f
+70.934,Transparent Red,#b42e3e
+70.935,Transparent Orange,#f36c25
+70.936,Transparent Green,#008556
+70.937,Transparent Yellow - FS38907,#f4e27e
+70.938,Transparent Blue,#00458b
+70.939,Smoke - Transparent,#3f3e39
+70.940,Saddle Brown - FS30111,#4c2a21
+70.941,Burnt Umber - FS30097,#655348
+70.942,Light Green - FS34230,#599d5a
+70.943,Grey Blue - FS35177,#7186a3
+70.944,Old Rose,#d97d7b
+70.945,Magenta - RAL 4006,#c5242c
+70.946,Dark Red,#8b4756
+70.947,Dark Vermillion - FS31350 - RAL 3000,#b23f42
+70.948,Golden Yellow,#ffb35d
+70.949,Light Yellow,#fded64
+70.950,Black - FS37038 - RAL9005 - RLM22,#424243
+70.951,White - FS37925 - RAL9016 - RLM21,#ffffff
+70.952,Lemon Yellow - RAL 1018,#faf264
+70.953,Flat Yellow - RLM4,#fcb543
+70.954,Yellow Green,#bed264
+70.955,Flat Flesh - FS32516,#d9a87a
+70.956,Clear Orange - FS32246,#f0542b
+70.957,Flat Red - FS31136 - ANA619 - RAL3013,#a12c3b
+70.958,Pink,#c57ab3
+70.959,Purple - FS37142,#735989
+70.960,Violet,#4e4478
+70.961,Sky Blue - FS35466,#9cd8f7
+70.962,Flat Blue - FS35180,#3b4d77
+70.963,Medium Blue - RAL 5019 - RLM 24,#2280b2
+70.964,Field Blue,#466870
+70.965,Prussian Blue - FS35052 - RAL 5000,#455f80
+70.966,Turquoise,#357082
+70.967,Olive Green,#5d7050
+70.968,Flat Green - FS34128,#727526
+70.969,Park Green Flat,#148269
+70.970,Deep Green - FS34090,#326956
+70.971,Green Grey - FS36595,#93a79c
+70.972,Light Green Blue - RLM78,#82beba
+70.973,Light Sea Grey - FS36480,#9cafb6
+70.974,Green Sky - FS34373,#859f84
+70.975,Military Green - FS34094,#3e5749
+70.976,Buff,#d6c1a1
+70.977,Desert Yellow - FS30257,#927748
+70.978,Dark Yellow - FS33440 - RAL 7028,#8f8457
+70.979,German Camouflage Dark Green - FS34052 - RAL 6007,#25221b
+70.980,Black Green,#19453f
+70.981,Orange Brown - FS30252 - RAL 8023,#b56d42
+70.982,Cavalry Brown - FS30109,#5e3a3c
+70.983,Flat Earth - FS30145,#6c5641
+70.984,Flat Brown - FS30108 - RAL 8011,#734741
+70.985,Hull Red - FS30059 - RAL 8017,#502623
+70.986,Deck Tan - FS36440,#a9b2a2
+70.987,Medium Grey - FS36306,#968980
+70.988,Khaki - FS30277,#a6977d
+70.989,Sky Grey - FS36463,#9aa0a0
+70.990,Light Grey - FS36375 - RAL 7001,#abb0b8
+70.991,Dark Sea Grey - FS36231,#888b8d
+70.992,Neutral Grey - FS36173,#637579
+70.993,White Grey,#cbcdc6
+70.994,Dark Grey - FS36076,#2c3f3d
+70.995,German Grey - FS35044 - RAL 7016,#252b2b
+70.996,Gold,#c7aa5a
+70.997,Silver,#c2cece
+70.998,Bronze,#534f3d
+70.999,Copper,#955e40
+70.521,Metal Medium,
+70.596,Glaze Medium,
+70.740,Camouflage Middle Brown,#513e20
+70.741,Camouflage Black Green,#313129
+70.745,Dark Rose,#805252
+70.746,Chestnut Brown,#603f36
+70.747,Faded Red,#ba584f
+70.748,Light Pink,#e18da4
+70.749,Dark Purple,
+70.750,Light Violet,#a893ba
+70.751,Black Violet,#392a31
+70.752,Infantry Blue,#25212f
+70.753,Light Blue Green,#0098a5
+70.754,Continental Blue,#25242a
+70.755,Light Emerald,#027b74
+70.756,Splinter Green,#456341
+70.756,Splinter Green,#456341
+70.757,Pacific Green,#586f65
+70.758,Bright Green,#6f8348
+70.759,German Tank Crew,#544a3e
+70.760,Light Mud,#7c755b
+70.761,Old Wood,#816d52
+70.762,Grey Brown,#5b4921
+70.763,Canvas,#4d3e1f
+70.764,Military Yellow,#937626
+70.765,Desert Tan,#b5a188
+70.766,Cream White,#f2ebd9
+70.767,Desert Brown,#ab8556
+70.768,BC Dark Brown,#76563d
+70.769,Mustard Brown,#9d714a
+70.770,New Wood,#8a633c
+70.771,Dark Rust,#3b2625
+70.771,Dark Rust,#3b2625
+70.772,Medium Grey Blue,#779d92
+70.773,Violet Grey,#5a5957
+70.774,Lavender Grey,#7f6f6f
+70.800,Gunmetal Blue,#282834
+70.801,Brass,#8f6c36
+70.802,Sunset Red,#be2b48
+70.803,Brown Rose,#9c6560
+70.804,Beige Red,#b06e4b
+70.805,German Orange,#ba6254
+70.806,German Yellow,#ceb65e
+70.807,Oxford Blue,#3e3a53
+70.808,Blue Green,#007885
+70.809,Royal Blue,#1a427d
+70.810,Royal Purple,#4d2740
+70.811,Blue Violet,#58477e
+70.812,Violet Red,#63353f
+70.814,Burnt Red,#763c3a
+70.815,Basic Skin Tone,#e9ac8d
+70.816,Luftwaffe Uniform,#44404e
+70.817,Scarlet,#c13d2e
+70.818,Red Leather,#95553c
+70.819,Iraqi Sand,#b4935e
+70.820,Off-White,#f4ede7
+70.821,German Beige WWII,#796950
+70.822,Camouflage Black Brown,#403436
+70.823,Luftwaffe Green,#393f25
+70.824,Orange Ochre,#ab8135
+70.825,Pale Brown,#9f8375
+70.826,Medium Brown,#5a4739
+70.827,Lime Green,#7e9334
+70.828,Mahogany Ink,#453a34
+70.829,Amarantha Red,#d04f30
+70.830,German Fieldgrey WWII,#56513b
+70.833,Fern Green,#465534
+70.835,Salmon Rose,#e18e7c
+70.836,London Grey,#696363
+70.837,Pale Sand,#e3c28d
+70.838,Emerald,#006249
+70.840,Light Turquoise,#006989
+70.841,Andrea Blue,#0070ac
+70.843,Cork Brown,#a06f4e
+70.844,Deep Sky Blue,#00bfff
+70.845,Sunny Skin Tone,#ed9646
+70.846,Mahogany Brown,#79504a
+70.847,Dark Sand,#cba868
+70.850,Medium Olive,#3e4e31
+70.851,Bright Orange,#df5a21
+70.856,Ochre Brown,#aa793e
+70.858,Ice Yellow,#edd072
+70.859,Black Red,#552f2c
+70.860,Medium Flesh Tone,#af793d
+70.861,Gloss Black,#241e1e
+70.862,Black Grey,#2e2721
+70.863,Gunmetal,#342b2e
+70.864,Natural Steel,#535258
+70.865,Oily Steel,#484246
+70.866,Grey Green,#41403e
+70.867,Dark Blue Grey,#424345
+70.868,Dark Sea Green,#4b4545
+70.869,Basalt Grey,#5b595c
+70.870,Medium Sea Grey,#7d7b7c
+70.871,Leather Brown,#594335
+70.872,Chocolate Brown,#58443d
+70.873,US Field Drab,#826545
+70.874,Tan Earth,#997457
+70.876,Brown Sand,#906143
+70.877,Gold Brown,#bf873c
+70.878,Old Gold,#55371d
+70.879,Green Brown,#7e6338
+70.880,Khaki Grey,#7c6438
+70.881,Green Yellow,#6e653c
+70.882,Middle Stone,#927e41
+70.883,Silver Grey,#d7cec5
+70.884,Stone Grey,#8c7c63
+70.885,Pastel Green,#939870
+70.886,Green Grey,#65624f
+70.887,US Olive Drab,#57513b
+70.888,Olive Grey,#40422d
+70.889,Olive Brown,#3f3126
+70.890,Reflective Green,#474a35
+70.891,Intermediate Green,#4f6541
+70.892,Yellow Olive,#383b32
+70.893,US Dark Green,#494b36
+70.894,Camouflage Olive Green,#3c3d2f
+70.895,Gunship Green,#4c5840
+70.896,Extra Dark Green,#282a14
+70.897,Bronze Green,#313a29
+70.897,Bronze Green,#313a29
+70.898,Dark Sea Blue,#262c38
+70.899,Dark Prussian Blue,#372741
+70.901,Pastel Blue,#607a93
+70.902,Azure,#5b6b9c
+70.905,Blue Grey Pale,#808686
+70.906,Pale Blue,#90a3a9
+70.907,Pale Grey Blue,#a7b6b3
+70.908,Carmine Red,#97211f
+70.909,Vermillion,#c42a28
+70.911,Light Orange,#ed7326
+70.913,Yellow Ochre,#deaa45
+70.914,Green Ochre,#a08035
+70.915,Deep Yellow,#ffe209
+70.916,Sand Yellow,#eabf56
+70.917,Beige,#dfbe6f
+70.918,Ivory,#ebe2d1
+70.919,Cold White,#f6f6f8
+70.920,German Uniform,#414f42
+70.921,English Uniform,#4b5230
+70.922,Uniform Green,#4b5230
+70.923,Japan Uniform WWII,#9e802a
+70.924,Russian Uniform WWII,#575336
+70.925,Blue,#372c4c
+70.926,Red,#792825
+70.927,Dark Flesh,#d3933b
+70.928,Light Flesh,#f3d4b8
+70.929,Light Brown,#a05b31
+70.930,Dark Blue,#273461
+70.939,Smoke Ink,#3f3e39
+70.940,Saddle Brown,#8b635b
+70.941,Burnt Umber,#513b2e
+70.943,Grey Blue,#596d85
+70.944,Old Rose,#bc6d70
+70.945,Magenta,#903153
+70.946,Dark Red,#692f24
+70.946,Dark Red,#692f24
+70.947,Dark Vermilion,#b52927
+70.948,Golden Yellow,#f7a832
+70.949,Light Yellow,#f7d245
+70.950,Black,#221c1c
+70.951,White,#ffffff
+70.952,Lemon Yellow,#e4d202
+70.953,Flat Yellow,#f6ba35
+70.954,Yellow Green,#dede26
+70.955,Flat Flesh,#df9a59
+70.956,Clear Orange,#cc4527
+70.957,Flat Red,#a12b29
+70.958,Pink,#b04f7c
+70.959,Purple,#533152
+70.960,Violet,#3c2c49
+70.961,Sky Blue,#74b8cf
+70.962,Flat Blue,#3f4873
+70.963,Medium Blue,#16416c
+70.964,Field Blue,#4d5256
+70.965,Prussian Blue,#3b405d
+70.966,Turquoise,#0c425a
+70.967,Olive Green,#516238
+70.968,Flat Green,#364a2e
+70.969,Park Green Flat,#1f634a
+70.970,Deep Green,#1b4b31
+70.971,Light Green Grey,#b5b7ac
+70.972,Light Green Blue,#86958e
+70.974,Green Sky,#7a9165
+70.975,Military Green,#434434
+70.976,Buff,#d7af4d
+70.977,Desert Yellow,#b68549
+70.977,Desert Yellow,#b6854a
+70.978,Dark Yellow,#908738
+70.979,Camouflage Dark Green,#263123
+70.980,Black Green,#29352b
+70.981,Orange Brown,#ac633a
+70.982,Cavalry Brown,#84443a
+70.983,Flat Earth,#69442a
+70.984,Flat Brown,#703f38
+70.985,Hull Red,#5c383a
+70.986,Deck Tan,#aaa390
+70.987,Medium Grey,#867259
+70.988,Khaki,#6f5f3b
+70.989,Sky Grey,#aaabad
+70.990,Light Grey,#919294
+70.991,Dark Sea Grey,#6c6b69
+70.992,Neutral Grey,#61615f
+70.993,White Grey,#e3e2e0
+70.994,Dark Grey,#312f32
+70.995,German Grey,#2e2e2c
+70.996,Gold,#996728
+70.997,Silver,#939290
+70.998,Bronze,#533c1d
+70.999,Copper,#803427
+70.807,Oxford Blue,#3b3f58
+70.258,Face & Skin Tones,#9c6560
+70.153,British Paint Set,#496446
+70.154,German Infantry Paint Set,#445147
+70.155,German Armour Paint Set,#ebe2d1
+70.158,German SS Paint Set,#548744
+70.159,Soviet Paint Set,#445147
+70.160,US Infantry Paint Set,#645b4a
+70.202,WWII Soviet Armour & Infantry,#496446
+70.203,WWII American Armour & Infantry,#595c4e
+70.204,WWII British Armour & Infantry,#6f6d4b
+70.205,WWII German Armour,#496446
+70.206,WWII German Infantry,#445147
+70.207,WWII German Waffen SS,#548744
+70.208,WWII Desert British & German Armour & Infantry,#7c7b66
+70.209,WWII Italian Armour & Infantry,#616352
+70.223,WWIII NATO Armour & Infantry,#496446
+70.103,Wargames Basics,#ffffff
+70.104,High Elves,#ffffff
+70.105,Orcs and Goblins,#fded64
+70.106,Non Death Chaos,#ebe2d1
+70.108,Panzer Colors,#ddc576
+70.118,Metallic Colors,#c7aa5a
+70.119,Face Painting,#653536
+70.124,Face & Skin Tones,#d9a87a
+70.136,Transparent Colors,#453a34
+70.137,Building Colors,#968980
+70.138,Demag Afrika Corps,#40685c
+70.139,Demag Guderian Russia 1942,#f6f6f8
+70.151,Black & White,#ffffff
+70.156,Infantry Basic Paint Set,#ffffff
+70.157,Vehicle Basic Paint Set,#8f6c36
+70.163,British Infantry Napoleonic Wars,#f4ede7
+70.164,French Infantry Napoleonic Wars,#f4ede7
+70.180,Waffen-SS Camouflage,#efad6e
+70.181,German Field Grey,#efad6e
+70.182,Wood & Leather,#977943
+70.183,"Rust, Stain & Streaking",#b56d42
+70.183,"Rust, Stain & Streaking",#b56d42
+70.185,German Fallschirmjager Early WWII,#efad6e
+70.186,WWII US Tank Crew,#efad6e
+70.187,Hellboy,#efad6e
+70.201,Utility Paint Set WWII & WWIII,#d9a87a
+70.220,WWIII American Armour & Infantry,#496446
+70.221,WWIII Soviet Armour & Infantry,#707faf
+70.222,WWIII British Armour & Infantry,#ddc576
+70.224,WWIII East German Armour & Infantry,#8cb7b0
+70.231,Panoceania,#ffffff
+70.233,Nomads,#ebe2d1
+70.101,Folkstone Basics,#ffffff
+70.102,Folkstone Specialst,#f6f6f8
+70.107,German Colors WWII,#ffffff
+70.109,Allied Forces WWII,#ffffff
+70.110,Napoleonic Colors,#ffffff
+70.111,American Civil War,#ffffff
+70.112,Wargame Special,#ffffff
+70.114,German Cam. WWII,#f4a288
+70.125,Face & Skin Tones,#ffffff
+70.140,Basic Colors USA,#ffffff
+70.141,Earth Tones,#f4ede7
+70.142,Medieval Colors,#ffffff
+70.143,Roman Empire,#ffffff
+70.144,Equestrian Colors,#ffffff
+70.145,Native American,#ffffff
+70.146,Naval (Steam Era),#f4ede7
+70.147,American Colonial,#f4ede7
+70.148,American Revolution,#ffffff
+70.179,Panzer Aces Camouflage Colors,#d9a87a
+70.179,Panzer Aces Camouflage Colors,#d9a87a
+70.173,Military Colors,#d5c79e
+70.150,Rust and Steel,#f0542b
